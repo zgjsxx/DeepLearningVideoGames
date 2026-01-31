@@ -1,34 +1,24 @@
-absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1705494584803/work
-astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work
-cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
-cycler==0.11.0
-fonttools==4.38.0
-gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1719403123000/work
-google-pasta @ file:///home/conda/feedstock_root/build_artifacts/google-pasta_1722873999312/work
-grpcio==1.12.1
-h5py @ file:///D:/bld/h5py_1660488229817/work
-importlib-metadata @ file:///D:/bld/importlib-metadata_1653252990345/work
+absl-py==2.1.0
+astor==0.8.1
+gast==0.7.0
+google-pasta==0.2.0
+grpcio==1.62.3
+h5py==3.8.0
+importlib-metadata==6.7.0
 Keras-Applications==1.0.8
-Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
-kiwisolver==1.4.5
-Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1710435156458/work
-MarkupSafe @ file:///D:/bld/markupsafe_1648737728033/work
-matplotlib==3.5.3
-numpy @ file:///D:/bld/numpy_1649806536290/work
-opencv-python==4.6.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
-Pillow==9.5.0
-protobuf==4.21.8
+Keras-Preprocessing==1.1.2
+Markdown==3.4.4
+MarkupSafe==2.1.5
+numpy==1.21.6
+opencv-python==4.13.0.90
+protobuf==3.20.3
 pygame==2.6.1
-pyparsing==3.1.4
-python-dateutil==2.9.0.post0
-scipy @ file:///C:/bld/scipy_1637806996411/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+six==1.17.0
 tensorboard==1.14.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
-termcolor @ file:///home/conda/feedstock_root/build_artifacts/termcolor_1682317048417/work
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1688315532570/work
-Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1676411946679/work
-wrapt @ file:///D:/bld/wrapt_1651495480725/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
+termcolor==2.3.0
+typing_extensions==4.7.1
+Werkzeug==2.2.3
+wrapt==1.16.0
+zipp==3.15.0
